@@ -29,8 +29,7 @@
   
 }
 .task4 .item {
-  display: flex;
-  width: 80px;
+  
   position: sticky;
   top: 0;
   left: calc((850px - 80px) / 2);
